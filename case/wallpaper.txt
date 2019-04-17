@@ -1,0 +1,38 @@
+#点击壁纸---判断是否存在hd---向上滑动---点击其中一个壁纸---判断是否存在广告---设置桌面壁纸，设置两三张
+home
+back
+swipe,950,830,100,830
+swipe,950,830,100,830
+swipe,950,830,100,830
+click,420,975
+click,420,975
+click,420,975
+# wallpaper_free_download,6
+swipe,495,1520,495,530
+swipe,495,1520,495,530
+swipe,495,1520,495,530
+click,795,495
+# themes_wallpapers,10
+# set_wallpaper
+# set_wallpaper
+home
+back
+home
+swipe,950,830,100,830
+swipe,950,830,100,830
+swipe,950,830,100,830
+click,420,975
+click,420,975
+click,420,975
+# wallpaper_free_download,6
+swipe,495,1520,495,530
+swipe,495,1520,495,530
+swipe,495,1520,495,530
+swipe,495,1520,495,530
+click,795,495
+click,795,495
+click,795,495
+# themes_wallpapers,10
+# set_wallpaper,2
+home
+back

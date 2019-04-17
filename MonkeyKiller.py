@@ -1,0 +1,1 @@
+import FunctionCommon as Fundef kill_all_connected_monkey():    for d in Fun.connected_devices_arr():        Fun.kill_monkey(d)if __name__ == '__main__':    kill_all_connected_monkey()

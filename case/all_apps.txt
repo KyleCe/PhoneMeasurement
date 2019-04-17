@@ -1,0 +1,16 @@
+#点击allapps ----点击搜索----back2次----右滑，，左滑---退出
+display_config,1080,1920,144
+
+home
+hold,423,845
+wait,3
+back
+click,540,1630
+
+swipe,999,665,95,665,1
+swipe,999,665,95,665,2
+swipe,95,684,940,684,2
+swipe,95,684,940,684,4
+home
+back
+wait, 2

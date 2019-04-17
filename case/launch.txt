@@ -1,0 +1,1 @@
+# stop app, start the collection, wait for 8s, start process.activityspecial_modereboot, 80invoke_watcher, 2backstopclear_datauninstallinstall_r, 35711.apk, 3start_commandwait, 8startwait, 20stop_command

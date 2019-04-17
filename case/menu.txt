@@ -1,0 +1,14 @@
+#操作路径：长按出现菜单--点击广告--back键
+home
+back
+# long_swipe,200,695,200,695,1,10
+click,535,420
+click,535,420
+click,535,420
+click,535,420
+click,535,420
+click,535,420
+back
+back
+home
+back

@@ -1,0 +1,1 @@
+path = "/Users/elex/Documents/tmp/folder_info"

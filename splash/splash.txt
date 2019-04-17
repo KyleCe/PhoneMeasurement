@@ -1,0 +1,9 @@
+# start,725,1950,next,710,1950,enable_now,700,1930,kcg_launcher,540,1870,always,1280,2270,
+# these action should in certain order, for the program will simulate the tap by the order of the lines arranged below
+# ignore 'enable_now'
+
+start,360,960
+next,360,1050
+enable_now,675,100
+kcg_launcher,235,645
+always,200,860

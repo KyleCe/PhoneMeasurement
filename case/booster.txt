@@ -1,0 +1,16 @@
+#点击一键加速--等待出结果页--点击广告进入GP-back
+home
+back
+click,930,1260
+click,930,1260
+click,930,1260
+click,930,1260
+click,930,1260
+click,850,758
+click,850,758
+click,850,758
+click,850,758
+click,850,758
+back
+home
+back

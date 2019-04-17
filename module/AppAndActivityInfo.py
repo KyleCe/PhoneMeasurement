@@ -1,0 +1,1 @@
+class AppInfo:    pkg_name = ''    activity_name = ''    apk_file_keyword = ''    def __init__(self, pkg, act, file_keyword):        self.pkg_name = pkg        self.activity_name = act        self.apk_file_keyword = file_keyword

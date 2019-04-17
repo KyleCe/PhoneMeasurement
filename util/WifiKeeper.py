@@ -1,0 +1,1 @@
+import syssys.path.append('..')import FunctionPackage as FunPkgdef start_wifi_keeper(tag, replace_apk=False):    pkg_name = 'com.example.kyle.wifikeeper'    activity_name = pkg_name + '/.MainActivity'    apk_file_keyword = 'wifi_keeper.apk'    FunPkg.install_app_start_activity(tag, pkg_name, activity_name, apk_file_keyword, replace_apk)

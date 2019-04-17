@@ -1,0 +1,6 @@
+# config params
+
+# grab dump
+dump_name=DoNothingAfter1Night
+path=/Users/elex/Documents/merge818onDate8.31
+process=com.kcg.com.fun
