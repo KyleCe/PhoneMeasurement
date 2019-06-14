@@ -1,0 +1,1 @@
+# -*- coding:utf-8 -*-import sysimport mathdef main(argv):    try:        x = float(argv[0])        y = float(argv[1])        s = float(argv[2])        dpi = math.sqrt(math.pow(x, 2) + math.pow(y, 2)) / s        print ("dpi : %.0f" % dpi)    except Exception:        print ('error, format: *.py width height inch')if __name__ == '__main__':    main(sys.argv[1:])

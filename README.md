@@ -167,5 +167,14 @@ example----$ python GradDump.py  1_file_name  2_destination_directory  3_process
 
 3. 3_process_name
 
+## DPICal.py
+calculate device dpi:
+```
+python DPICal.py  2340 1080 6.35
+# output:
+dpi : 406
+``` 
+
+
 ### NOTE:
 once you've input a param already, the next time function running will use the latest param you input
