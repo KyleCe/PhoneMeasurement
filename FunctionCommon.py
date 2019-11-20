@@ -6,7 +6,7 @@ import errno
 import time
 import sys
 import fileinput
-import ConfigParser
+# import configparser
 
 import ConstResource as Res
 import FunctionPackage as FunPkg
@@ -39,14 +39,14 @@ def list_dir(path):
     return os.listdir(path)
 
 
-def get_conf_parser(conf_file_name, conf_dir=Res.config_dir):
-    return conf_parser(get_config_file(conf_file_name, conf_dir))
-
-
-def conf_parser(ini_file):
-    cp = ConfigParser.ConfigParser()
-    cp.read(ini_file)
-    return cp
+# def get_conf_parser(conf_file_name, conf_dir=Res.config_dir):
+#     return conf_parser(get_config_file(conf_file_name, conf_dir))
+#
+#
+# def conf_parser(ini_file):
+#     cp = ConfigParser.ConfigParser()
+#     cp.read(ini_file)
+#     return cp
 
 
 def get_config_file(conf_file_name, conf_dir=Res.config_dir):
@@ -122,7 +122,7 @@ def logs(*args):
 
 
 def log(info):
-    print current_time() + ' ' + str(info)
+    print(current_time() + ' ' + str(info))
 
 
 def log_cat_to_file(tag):

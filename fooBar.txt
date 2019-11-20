@@ -1,0 +1,7 @@
+{
+  "startNodeId": "1",
+"interactiveUrl":"www.baidu.com",
+"conditionUrl": "",
+  "eventUrl": ""
+}
+
